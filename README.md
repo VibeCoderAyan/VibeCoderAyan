@@ -1,12 +1,12 @@
-<!-- Animated Header Banner -->
+<!-- Animated Light Green Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,8,12,18,22&height=250&section=header&text=Ayan%20Khan&fontSize=70&fontAlignY=35&animation=twinkling&desc=AI%20Prompt%20Engineer%20%7C%20App%20Developer&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=43A047,81C784,A5D6A7,C8E6C9&height=250&section=header&text=Ayan%20Khan&fontSize=70&fontAlignY=35&animation=twinkling&desc=AI%20Prompt%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <!-- Animated Typing Text -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=BCA+1st+Year+Student;Expert+in+AI+Prompt+Engineering;Building+Apps+with+Flutter+%26+React+Native;Python+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=BCA+1st+Year+Student;AI+Prompt+Engineering+Expert;Python,+Rust,+%26+React+Native;Exploring+Cybersecurity" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,24 +15,24 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-  <i>"Bridging the gap between Artificial Intelligence and seamless Mobile Experiences."</i>
+  <i>"Optimizing AI interactions and exploring the depths of Cybersecurity."</i>
 </div>
 <br/>
 
-- 🎓 Currently engineering my future as a **BCA (1st Year)** student.
-- 🧠 Specializing in **AI Prompt Engineering** to unlock the full potential of LLMs.
-- 📱 Crafting intuitive, cross-platform mobile apps using **Flutter** and **React Native**.
-- 🐍 Building robust backend logic and automations with **Python**.
-- 🤝 Open for collaborations on AI-integrated tools and open-source projects.
+- 🎓 I'm a **BCA (1st Year)** student with a deep passion for technology.
+- 🧠 I specialize in **AI Prompt Engineering**, building highly effective prompts for Large Language Models.
+- 💻 My coding arsenal includes **Python, Rust,** and **React Native**.
+- 🛡️ I am actively exploring **Cybersecurity**, working with Linux environments like **Kali Linux, Parrot OS,** and **Ubuntu**.
+- 🚀 Always experimenting with new AI tools and security protocols.
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Languages, Tools & OS
 
 <div align="center">
-  <!-- Interactive & Animated Skill Icons -->
+  <!-- Interactive Skill Icons (Added Linux, Ubuntu, Kali, Rust) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flutter,react,dart,js,git,github,vscode,firebase,linux&theme=dark&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,rust,react,linux,ubuntu,kali,bash,git,github,vscode&theme=light&perline=10" alt="My Skills" />
   </a>
 </div>
 
@@ -43,24 +43,24 @@
 ## 📊 GitHub Analytics & Dot Matrix Profile
 
 <div align="center">
-  <!-- Top Languages & GitHub Stats (Dark Theme for Background Aesthetic) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VibeCoderAyan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibeCoderAyan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <!-- Custom Light Green Theme Stats (Fixed broken links) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VibeCoderAyan&show_icons=true&hide_border=true&bg_color=E8F5E9&title_color=2E7D32&text_color=1B5E20&icon_color=43A047" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibeCoderAyan&layout=compact&hide_border=true&bg_color=E8F5E9&title_color=2E7D32&text_color=1B5E20" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- 3D Contribution Graph (The "Dot Matrix" Aesthetic) -->
+  <!-- Reliable Dot-Matrix Contribution Graph -->
   <h3>🔥 My Contribution Graph</h3>
-  <img src="https://github-readme-3d-contrib.vercel.app/api?user=VibeCoderAyan&theme=tokyonight" alt="3D Contribution Graph" width="80%" />
+  <img src="https://ghchart.rshah.org/43A047/VibeCoderAyan" alt="GitHub Contribution Grid" width="80%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VibeCoderAyan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="80%" />
+  <!-- GitHub Streak in Light Green -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VibeCoderAyan&hide_border=true&background=E8F5E9&title_color=2E7D32&text_color=1B5E20&icon_color=43A047&ring=43A047&fire=43A047&currStreakNum=2E7D32" alt="GitHub Streak" width="80%" />
 </div>
 
 ---
@@ -78,9 +78,4 @@
   <a href="https://github.com/VibeCoderAyan">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VibeCoderAyan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
