@@ -1,45 +1,63 @@
-# ⚡️ Ayan Khan 
+<h1 align="center">Hi 👋, I'm Ayan Khan</h1>
+<h3 align="center">AI Prompt Engineer | Cross-Platform Developer</h3>
 
-<div align="center">
-  <!-- Dynamic waving banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20Ayan!&fontSize=70&fontAlignY=35&animation=twinkling" alt="Aesthetic Banner" />
-</div>
+<p align="center">
+  <!-- Animated Typing Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=BCA+1st+Year+Student;Expert+in+AI+Prompt+Engineering;Building+Apps+with+Flutter+%26+React+Native;Python+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
-I am an **AI Prompt Engineer** and a first-year **BCA** student passionate about blending artificial intelligence with modern app development. I enjoy crafting intelligent AI workflows, building cross-platform applications, and continuously expanding my technical toolkit.
-
-- 🎓 Currently pursuing a Bachelor of Computer Applications (BCA)
-- 🧠 Exploring the boundaries of generative AI and prompt optimization
-- 💻 Building seamless, responsive mobile experiences
-- 🤝 Looking to collaborate on AI-integrated apps and open-source projects
-- 📫 Reach me at: **[Your Email Address]** or connect on **[LinkedIn Link]**
+- 🎓 I'm currently pursuing my **BCA (1st Year)**.
+- 🧠 I specialize in **AI Prompt Engineering**, creating optimized prompts for generative AI models.
+- 📱 I love building seamless cross-platform mobile applications using **Flutter** and **React Native**.
+- 🐍 Proficient in backend development and scripting with **Python**.
+- 🚀 Always eager to learn new technologies and collaborate on innovative projects.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Languages & Tools
 
-<div align="left">
-  <!-- Custom Tech Badges -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-</div>
+<p align="center">
+  <!-- Professional Skill Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flutter,react,dart,js,git,vscode,github&theme=dark" alt="My Skills" />
+  </a>
+</p>
 
----
-
-## 🚀 Highlighted Projects
-
-*   **[Project Name 1](Link):** Briefly describe how you integrated AI prompts into a Python or mobile app project here.
-*   **[Project Name 2](Link):** Briefly describe a Flutter or React Native UI/UX project you have built.
+<p align="center">
+  <!-- Custom Badges -->
+  <img src="https://img.shields.io/badge/AI_Prompt_Engineering-FF9900?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Mobile_Development-0A66C2?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Dev" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
-<!-- Replace YOUR_GITHUB_USERNAME below with your actual username -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
+<!-- Yahan YOUR_GITHUB_USERNAME ki jagah apna asli username likhein -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Ayan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="Ayan's GitHub Streak" width="48%" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <!-- Apne links update karein -->
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
