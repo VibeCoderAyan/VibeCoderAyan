@@ -1,87 +1,45 @@
+# ⚡️ Ayan Khan 
+
 <div align="center">
-  <img src="assets/portrait.svg" alt="Ayan khan Dot-Matrix Portrait" width="340" />
-  
-  <br /><br />
+  <!-- Dynamic waving banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20Ayan!&fontSize=70&fontAlignY=35&animation=twinkling" alt="Aesthetic Banner" />
+</div>
 
-  # Ayan khan
-  
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=36&lines=Software%20Engineer%20%7C%20Solo%20Dev;React%20Native%20Specialist;Deep%20Learning%20%26%20Model%20Training;Shipping%20Apps%20To%20Production" alt="Typing Subtitle" />
-  </div>
+## 👨‍💻 About Me
 
-  ### 🚀 Shipping Apps & Training Models
-  
-  **Solo Developer • React Native Specialist • AI Enthusiast**
+I am an **AI Prompt Engineer** and a first-year **BCA** student passionate about blending artificial intelligence with modern app development. I enjoy crafting intelligent AI workflows, building cross-platform applications, and continuously expanding my technical toolkit.
 
-  <br />
+- 🎓 Currently pursuing a Bachelor of Computer Applications (BCA)
+- 🧠 Exploring the boundaries of generative AI and prompt optimization
+- 💻 Building seamless, responsive mobile experiences
+- 🤝 Looking to collaborate on AI-integrated apps and open-source projects
+- 📫 Reach me at: **[Your Email Address]** or connect on **[LinkedIn Link]**
 
+---
 
+## 🛠️ Tech Stack & Skills
 
+<div align="left">
+  <!-- Custom Tech Badges -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 Highlighted Projects
 
-I'm a **Ai Prompt Engineer** who prefers shipping products over just writing code. I specialize in building cross-platform mobile ecosystems and understanding the business side of deployment.
-
-* 📱 **Currently:** Leveraging **React Native** to publish production-ready Android apps to the Play Store.
-* 🧠 **AI Focus:** Fascinated by **Deep Learning** and Model Training. (Previously Shortlisted for **SIH Hackathon**).
-* 💼 **Experience:** Transitioned from Kotlin/Native Android to a modern cross-platform stack (React/Next.js/Vite).
-* 🤝 **Collaboration:** Open to collaborating on **Machine Learning** research and ambitious app ideas.
+*   **[Project Name 1](Link):** Briefly describe how you integrated AI prompts into a Python or mobile app project here.
+*   **[Project Name 2](Link):** Briefly describe a Flutter or React Native UI/UX project you have built.
 
 ---
 
-### 📡 Technical Capability & Skills Radar
+## 📊 GitHub Analytics
 
+<!-- Replace YOUR_GITHUB_USERNAME below with your actual username -->
 <div align="center">
-  <img src="assets/skills.svg" alt="Technical Capability & Skill Radar" width="100%" />
-</div>
-
-
----
-
-### 🛠️ Core Tooling & Technologies
-
-<div align="center">
-
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Mobile & App Dev** | <img src="https://skillicons.dev/icons?i=react,kotlin,flutter,android,expo&theme=dark" /> |
-| **Web Development** | <img src="https://skillicons.dev/icons?i=nextjs,ts,vite,tailwind,html,css&theme=dark" /> |
-| **AI & Python** | <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,jupyter&theme=dark" /> |
-| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark" /> |
-
-</div>
-
----
-
-### 📈 Activity & Contribution Flow
-
-<div align="center">
-  <img src="assets/contributions.svg" alt="Activity & Contribution Flow" width="100%" />
-</div>
-
----
-
-### ⚡ Engineering Showcase & Performance
-
-<div align="center">
-  <img src="assets/bento.svg" alt="Engineering Showcase & Performance" width="100%" />
-</div>
-
----
-
-### 🎮 The Human Side
-
-I'm not just a code machine. When the IDE closes, here is who I am:
-
-* **⚔️ Current Obsession:** Hunting monsters in *The Witcher 3: Wild Hunt*.
-* **⌚ Tinkering:** I build custom mechanical watches—because debugging tiny gears is just as hard as debugging code.
-* **🤖 Philosophy:** I believe in using AI to amplify developer productivity, not replace creativity.
-
----
-
-<div align="center">
-  <sub>Let's build something incredible together.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
