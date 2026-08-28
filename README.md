@@ -1,9 +1,7 @@
-<!-- Animated Light Green Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=43A047,81C784,A5D6A7,C8E6C9&height=250&section=header&text=Ayan%20Khan&fontSize=70&fontAlignY=35&animation=twinkling&desc=AI%20Prompt%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
-<!-- Animated Typing Text -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=AI+Prompt+Engineering+Expert;Python,+Rust,+%26+React+Native;Exploring+Cybersecurity" alt="Typing SVG" />
