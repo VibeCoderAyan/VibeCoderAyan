@@ -1,12 +1,12 @@
-<!-- Animated Tech-Themed Header Banner -->
+<!-- Futuristic Deep Tech Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F2027,203A43,2C5364&height=250&section=header&text=Ayan%20Khan&fontSize=75&fontColor=00FFCC&fontAlignY=35&animation=twinkling&desc=AI%20Prompt%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descColor=FFFFFF&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f0c29,302b63,24243e&height=250&section=header&text=Ayan%20Khan&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20Prompt%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descColor=00d2ff&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
-<!-- Animated Terminal Typing Text -->
+<!-- Glowing Typing Text -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=AI+Prompt+Engineering+Expert;Python,+Rust,+%26+React+Native;Exploring+Cybersecurity;Building+Next-Gen+AI+Tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00d2ff&center=true&vCenter=true&width=600&lines=AI+Prompt+Engineering+Expert;Python,+Rust,+%26+React+Native;Exploring+Cybersecurity;Building+Next-Gen+AI+Tools" alt="Typing SVG" />
   </a>
 </div>
 
@@ -45,21 +45,21 @@
 **📊 GitHub Analytics & Dot Matrix Profile**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VibeCoderAyan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=C9D1D9&icon_color=00FFCC" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibeCoderAyan&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VibeCoderAyan&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=00d2ff&text_color=ffffff&icon_color=8A2BE2" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VibeCoderAyan&layout=compact&hide_border=true&bg_color=0f0c29&title_color=00d2ff&text_color=ffffff" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
   <strong>🔥 My Contribution Graph</strong><br/>
-  <img src="https://ghchart.rshah.org/00FFCC/VibeCoderAyan" alt="GitHub Contribution Grid" width="80%" />
+  <img src="https://ghchart.rshah.org/00d2ff/VibeCoderAyan" alt="GitHub Contribution Grid" width="80%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VibeCoderAyan&hide_border=true&background=0D1117&title_color=00FFCC&text_color=C9D1D9&icon_color=00FFCC&ring=00FFCC&fire=00FFCC&currStreakNum=00FFCC" alt="GitHub Streak" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VibeCoderAyan&hide_border=true&background=0f0c29&title_color=00d2ff&text_color=ffffff&icon_color=8A2BE2&ring=00d2ff&fire=8A2BE2&currStreakNum=ffffff" alt="GitHub Streak" width="80%" />
 </div>
 
 <br/>
