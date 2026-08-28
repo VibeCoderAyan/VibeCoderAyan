@@ -6,7 +6,7 @@
 <!-- Animated Typing Text -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=BCA+1st+Year+Student;AI+Prompt+Engineering+Expert;Python,+Rust,+%26+React+Native;Exploring+Cybersecurity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=AI+Prompt+Engineering+Expert;Python,+Rust,+%26+React+Native;Exploring+Cybersecurity" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,7 +19,6 @@
 </div>
 <br/>
 
-- 🎓 **Education:** I'm a BCA (1st Year) student with a deep passion for technology.
 - 🧠 **Focus:** I specialize in **AI Prompt Engineering**, building highly effective prompts for Large Language Models.
 - 💻 **Stack:** My coding arsenal includes **Python, Rust,** and **React Native**.
 - 🛡️ **Security:** I am actively exploring **Cybersecurity**, working with Linux environments like **Kali Linux, Parrot OS,** and **Ubuntu**.
